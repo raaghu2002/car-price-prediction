@@ -7,9 +7,9 @@
 ## Collaborators
 
 - 4MH22CS405 [Raghavendra S](https://github.com/raaghu2002)
-- 4MH21CS []()
-- 4MH21CS []()
-- 4MH21CS []()
+- 4MH21CS109 [Tejas Manjunath](https://github.com/)
+- 4MH21CS079 [Ravishankar K N](https://github.com/)
+- 4MH21CS075 [Rajashekar R](https://github.com/)
 
 # Aim
 
